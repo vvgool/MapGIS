@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MapGIS.iml" filepath="$PROJECT_DIR$/MapGIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapGISSDK/MapGISSDK.iml" filepath="$PROJECT_DIR$/MapGISSDK/MapGISSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gisapp/gisapp.iml" filepath="$PROJECT_DIR$/gisapp/gisapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
